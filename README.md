@@ -18,7 +18,7 @@
 2. Implementar un checkbox que permita seleccionar si la película fue vista por el usuario.
 3. Implementar validación de datos con HTML:
     - El campo 'Título de la película' es **requerido**
-    - El campo Año de estreno debe aceptar solo **números** entre 1900 y 2025.
+    - El campo Año de estreno debe aceptar solo **números** entre **1900 y 2025**.
 4. Guardar los cambios y subirlos al repositorio remoto.
 5. Crear un issue en GitHub con el título **Parte A** y subir una captura de pantalla del formulario web visualizado en el navegador.
 
