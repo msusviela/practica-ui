@@ -1,21 +1,27 @@
 body {
   color: #2e330c;
-  background-color: #91a77d;
+  background-color: #d6f5fd;
 }
 
 label {
-  color: #afbf82;
+  color: #1b1f64;
 }
 
 h2 {
-  color: #a1c676;
+  color: #000448;
 }
 
 p {
-  color: #000000;
+  color: #000448;
 }
 
 .card {
-  background-color: #e2f0c6;
+  background-color: #a5d5e2;
   border: 1px solid #dee2e6;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: 300px;
 }
